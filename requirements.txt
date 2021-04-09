@@ -1,0 +1,5 @@
+Pandas
+Jupyter notebook (optional)
+Numpy
+Matplotlib
+Sklearn
